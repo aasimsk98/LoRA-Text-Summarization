@@ -1,0 +1,9 @@
+{
+  "experiment": "Baseline \u2014 Llama 3.2-1B (no fine-tuning)",
+  "model": "meta-llama/Llama-3.2-1B",
+  "test_samples": 11490,
+  "bleu_4": 2.0184,
+  "rouge_1": 21.3652,
+  "rouge_2": 10.804,
+  "rouge_L": 14.7681
+}

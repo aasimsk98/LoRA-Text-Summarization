@@ -1,0 +1,12 @@
+{
+  "experiment": "LoRA rank=8 \u2014 Llama 3.2-1B",
+  "model": "meta-llama/Llama-3.2-1B",
+  "lora_rank": 8,
+  "lora_alpha": 256,
+  "train_samples": 1000,
+  "test_samples": 1000,
+  "bleu_4": 2.3351,
+  "rouge_1": 28.6097,
+  "rouge_2": 9.4605,
+  "rouge_L": 20.0208
+}
